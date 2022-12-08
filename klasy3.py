@@ -32,4 +32,3 @@ bud1 = Dom(100, "czerwony", 5)
 print(bud1.kolor)
 bud1.zmien_metraz()
 bud1.zmien_okna()
-bud1.
